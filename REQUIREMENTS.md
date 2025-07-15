@@ -5,11 +5,11 @@
 The following packages are required to run this application:
 
 ```
-streamlit>=1.28.0
-numpy>=1.24.0
-pandas>=2.0.0
-plotly>=5.15.0
-scipy>=1.10.0
+streamlit
+numpy
+pandas
+plotly
+scipy
 ```
 
 ## Installation
